@@ -30,8 +30,12 @@ The project demonstrates:
 - Clean Architecture and automated testing
 - Human-confirmed banking operations
 
-### 💡 What I Focus On
+### 💼 Professional Focus
 
-Secure enterprise applications, maintainable backend systems, clean code, authorization, cloud integration, and practical AI solutions.
+My professional experience includes enterprise software development, backend and fullstack applications, API integration, identity and access management, and software quality.
+
+I focus on building secure, maintainable systems and improving existing applications through modern architectures and automated testing.
+
+Alongside my professional work, I explore AI integration and security-focused system design through independent projects such as [VirtualBank](https://github.com/erata/virtual-bank-agent).
 
 [Explore my repositories](https://github.com/erata?tab=repositories)
