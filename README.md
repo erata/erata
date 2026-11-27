@@ -10,7 +10,7 @@ My experience and interests include backend and fullstack development, identity 
 
 - **Backend:** C#, ASP.NET Core, Java, Spring Boot
 - **Frontend:** Angular, TypeScript, React
-- **Security:** OAuth 2.0, OpenID Connect, Keycloak, JWT, RBAC
+- **Security:** OAuth 2.0, OpenID Connect, Keycloak, Duende Identityserver, JWT, RBAC
 - **Data & Persistence:** PostgreSQL, SQL, Entity Framework Core
 - **Architecture:** Clean Architecture, REST APIs, CQRS
 - **Tools:** Docker, Git, CI/CD, Automated Testing
