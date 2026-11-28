@@ -52,10 +52,10 @@ Alongside my professional work, I explore AI integration, security-focused syste
 
 ### ✍️ Technical Writing
 
-I share practical engineering insights, architectural decisions, experimental findings, and lessons learned through technical articles.
+I write technical articles in English and Turkish, sharing practical insights, architectural decisions, and lessons learned from software engineering.
 
-- [Medium — English Articles](https://medium.com/@ibrahimerata)
-- [Webritmi — Turkish Articles](https://webritmi.com)
+- [Medium](https://medium.com/@ibrahimerata)
+- [Webritmi](https://webritmi.com)
 
 ---
 
