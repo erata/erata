@@ -50,4 +50,13 @@ I focus on building secure, maintainable systems and improving existing applicat
 
 Alongside my professional work, I explore AI integration, security-focused system design and backend performance engineering through independent projects such as [VirtualBank](https://github.com/erata/virtual-bank-agent) and [Backend Engineering Lab](https://github.com/erata/backend-engineering-lab).
 
+### ✍️ Technical Writing
+
+I share practical engineering insights, architectural decisions, experimental findings, and lessons learned through technical articles.
+
+- [Medium — English Articles](https://medium.com/@ibrahimerata)
+- [Webritmi — Turkish Articles](https://webritmi.com)
+
+---
+
 [Explore my repositories](https://github.com/erata?tab=repositories)
